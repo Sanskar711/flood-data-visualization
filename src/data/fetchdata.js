@@ -1,8 +1,8 @@
 import Papa from 'papaparse';
 
-const excelFile1 = '/data/metadata_org_indofloods.csv';
-const excelFile2 = '/data/floodevents_org_indofloods.csv';
-const geojsonFile = '/data/GeoJSON_Admin.json'; // Correct the path here
+const excelFile1 = '/db/metadata_org_indofloods.csv';
+const excelFile2 = '/db/floodevents_org_indofloods.csv';
+const geojsonFile = '/db/GeoJSON_Admin.json'; // Correct the path here
 
 const fetchCSV = async (url) => {
   const response = await fetch(url);

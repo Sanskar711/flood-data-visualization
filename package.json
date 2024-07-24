@@ -2,7 +2,7 @@
   "name": "flood-data-visualization",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sanskar711.github.io/flood-data-visualization",
+  "homepage": "https://sanskar711.github.io/flood-data-visualization/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
