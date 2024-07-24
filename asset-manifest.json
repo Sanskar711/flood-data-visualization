@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flood-data-visualization/static/css/main.4da912d9.css",
+    "main.js": "/flood-data-visualization/static/js/main.921e6639.js",
+    "index.html": "/flood-data-visualization/index.html",
+    "main.4da912d9.css.map": "/flood-data-visualization/static/css/main.4da912d9.css.map",
+    "main.921e6639.js.map": "/flood-data-visualization/static/js/main.921e6639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da912d9.css",
+    "static/js/main.921e6639.js"
+  ]
+}
